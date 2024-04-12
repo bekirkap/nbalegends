@@ -1,0 +1,11 @@
+.legendsdiv{
+    background-color: aqua;
+    border-radius: 10px;
+}
+input{
+    margin: 2rem;
+    width: 40vw;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
